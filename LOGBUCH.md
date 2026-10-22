@@ -9,7 +9,7 @@ One entry per stage. Short is fine. The log is part of the submission and the ba
 - **Wichtigste Prompts** (wörtlich kopieren):
 - **Was schiefging und woran wir es gemerkt haben:**
 - **Was wir selbst geprüft haben** (von Hand, im Plan, im Modell):
-
+Hi
 ---
 
 # Sprint 1: Carbon-Inventur Pavillon Stockerau
